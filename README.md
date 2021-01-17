@@ -1,13 +1,12 @@
 # From-Russia-With-Love-fake-news-
 Cohort 22 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.
 
-## Directories
-**Datasets**: Datasets for project.  
-**Docs**: Documents and notes.  
-**Notebooks**: Folder for all Jupyter Notebooks.
-- **Data_Ingestion_and_Wrangling**: Notebooks related to ingesting and wrangling data.  
-- **Final**: Jupyter Notebook for project submission.  
-- **Models**: Notebooks related to testing models. 
+## Datasets
 
-**Resources**: Articles, Links, etc. to useful resources.  
-**Scripts**: Python scripts.  
+This project uses the Fake News Corpus Dataset, which is found [here.](https://github.com/several27/FakeNewsCorpus)
+
+The original dataset is very large, and may not be easy for some systems to handle. To help with this problem, we have provided the reduced dataset create in this project [here.](https://drive.google.com/drive/folders/1jbj3gJIhAokFbh2qmXMHT62FiAVxTWeu?usp=sharing)
+
+## Directories
+**Notebooks**: Jupyter Notebooks for final project submission.
+**Scripts**: Python scripts used during the project.  
