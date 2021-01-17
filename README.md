@@ -9,4 +9,5 @@ The original dataset is very large, and may not be easy for some systems to hand
 
 ## Directories
 **Notebooks**: Jupyter Notebooks for final project submission.
+
 **Scripts**: Python scripts used during the project.  
